@@ -44,10 +44,7 @@ app.get('/api/:searchURL', (request, response)=>{
     const searchString = request.params.searchURL.toLowerCase()
     if (directorAndMovies[searchString]) {
         response.json(directorAndMovies[searchString])
-    } else if (directorAndMovies[searchString].searchString) {
-        response.json(directorAndMovies[searchString].searchString)
-    }
-    else {
+    } else {
         response.json('unknown')
     }
 })

@@ -35,6 +35,38 @@ const movies = {
     'zack and miri make a porno': {
         'name': 'Zach and Miri Make a Porno',
         'releaseYear': 2008,
+    },
+    'cop out': {
+        'name': 'Cop Out',
+        'releaseYear': 2010,
+    },
+    'red state': {
+        'name': 'Red State',
+        'releaseYear': 2011,
+    },
+    'jay and silent bob super groove cartoon movie!': {
+        'name': 'Jay & Silent Bob\'s Super Groovy Cartoon Movie!',
+        'releaseYear': 2006,
+    },
+    'tusk': {
+        'name': 'Tusk',
+        'releaseYear': 2014,
+    },
+    'yoga hosers': {
+        'name': 'Yoga Hosers',
+        'releaseYear': 2016,
+    },
+    'jay and silent bob reboot': {
+        'name': 'Jay and Silent Bob Reboot',
+        'releaseYear': 2019,
+    },
+    'clerks iii': {
+        'name': 'Clerk III',
+        'releaseYear': 2022,
+    },
+    'killroy was here': {
+        'name': 'Killroy Was Here',
+        'releaseYear': 2022,
     }
 }
 
